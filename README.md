@@ -3,6 +3,7 @@
 The code in this repository is intended to replicate Figure 4 in the paper "Efficient Multiscale Gaussian Process Regression Using Hierarchial Clustering." Questions and concerns about the code should be directed towards Ze Jia Zhang (zzejia at umich dot edu).
 
 ### Files
+* MGPR.pdf: preprint PDF version of the paper.
 * Figure4.m: script to produce the desired figure.
 * Train_Kern_Std.m: training algorithm for standard GPR.
 * Test_Kern_Std.m: testing algorithm for standard GPR.
