@@ -25,6 +25,7 @@ end;
 
 %specify training (n) and test (ntst) sets
 generatenewtraining=1;
+Findx=6;
 if generatenewtraining ~=0
     if Findx<5
         n=256;
